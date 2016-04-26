@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "agstore1"
     },
     "adminUsername": {
       "value": "admin123"
@@ -12,7 +12,13 @@
       "value": "ADmin123_!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "ag1423"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeofDiskInGB": {
+      "value": "20"
     }
   }
 }
